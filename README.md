@@ -1,41 +1,48 @@
-Description
+Overview
 
-This repository contains a simple Python script for sorting three integer values in ascending order. The script demonstrates basic conditional swapping logic and is intended for educational and training purposes.
+This repository contains multiple Python scripts designed for learning and practicing fundamental programming concepts. Each script serves a different educational purpose, such as working with arrays, mathematical operations, and logic-based conditions.
 
-Features
+Included Scripts
 
-Takes three predefined integer values.
+ORDINA IN MODO CRESCENTE - Sorts three integers in ascending order using conditional swaps.
 
-Uses conditional swapping to sort the values in ascending order.
+SCAMBIO 2 NUMERI - Demonstrates swapping two numbers.
 
-Prints the values before and after sorting.
+QUOZIENTE RESTO 14-3 - Computes the quotient and remainder of division.
 
+TAVOLA PITAGORICA - Generates a multiplication table up to 12x12.
 
-Usage
+TAVOLA PITAGORICA CON INPUT - Allows user input to generate a multiplication table of custom size.
 
-Clone this repository or download the script.
+STAMPA ARRAY - Prints elements of a predefined array.
 
-Run the script using Python:
+STAMPA ARRAY DA INPUT - Takes user input to fill and print an array.
 
-python #ORDINA\ IN\ MODO\ CRESCENTE.py
+STAMPA ARRAY AL CONTRARIO - Prints an array in reverse order.
 
-Observe the console output showing the values before and after sorting.
+TROVA MAX, MIN E MEAN - Finds the maximum, minimum, and mean of a user-defined array.
 
+BATTAGLIA NAVALE - Simulates a simple battleship game with a 10x10 grid.
 
-Example Output
+How to Run
 
-Prima dell'ordinamento:
-a = 100, b = 20, c = 30
-Dopo l'ordinamento crescente:
-a = 20, b = 30, c = 100
+Each script is standalone and can be executed using Python 3. Simply run:
 
+python script_name.py
 
-Requirements
+Replace script_name.py with the actual filename.
 
-Python 3.x
+Learning Objectives
 
+Understanding loops, conditionals, and input handling.
+
+Practicing array operations and basic algorithms.
+
+Implementing mathematical logic in Python.
 
 License
 
-This project is intended for training purposes and is provided without any warranty.
+This repository is for training purposes and is provided as-is without any warranty.
+
+
 
